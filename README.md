@@ -12,7 +12,7 @@ This project was built in Windows and can be built with the activate.ps1 script.
 Generate project files/build using CMake. I like to make a directory called `build` at the root and then run. This also uses Ninja build 
 if any dependencies are missing.
 ```
-cmake ..
+\activate.ps1 
 ```
 from that directory. This will generate relevant project files (eg. Visual Studio Code for me) which you can then use to build and run.
 
