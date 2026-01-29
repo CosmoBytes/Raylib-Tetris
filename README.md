@@ -26,11 +26,10 @@ I chose to use Raylib which runs off of OpenGL (and GLFW) for this due following
 ## License
 This repository uses [MIT License](https://github.com/CosmoBytes/Raylib-Tetris/blob/main/LICENSE), so feel free to use this however you like.
 
-// Project: Reylib Tetris
-// Description: Tetris Game implemented in Reylib and C++ for learning purposes
-// Source / Reference:
-// https://www.youtube.com/watch?v=wVYKG_ch4yM&list=PLwR6ZGPvjVOSRywn9VCQ3yrRVruxzzuo9
-//
-// Author: Arcane Compiler
-// Created: December 29th 2025
-//
+Project: Reylib Tetris
+Description: Tetris Game implemented in Reylib and C++ for learning purposes
+Source / Reference:
+https://www.youtube.com/watch?v=wVYKG_ch4yM&list=PLwR6ZGPvjVOSRywn9VCQ3yrRVruxzzuo9
+
+ Author: Arcane Compiler
+ Created: December 29th 2025
