@@ -24,7 +24,7 @@ from that directory. This will generate relevant project files (eg. Visual Studi
 I chose to use Raylib which runs off of OpenGL (and GLFW) for this due following along in the tutorial mentioned in the description.
 
 ## License
-This repository uses [The Unlicense](https://unlicense.org/), so feel free to use this however you like.
+This repository uses [MIT License](https://github.com/CosmoBytes/Raylib-Tetris/blob/main/LICENSE), so feel free to use this however you like.
 
 // Project: Reylib Tetris
 // Description: Tetris Game implemented in Reylib and C++ for learning purposes
