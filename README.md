@@ -6,6 +6,10 @@ Creation of Raylib Tetris implementation from a Youtube Tutorial. This project w
 An example of architect applications in C++, as part of a [YouTube mini-series](https://youtube.com/playlist?list=PLlrATfBNZ98cpX2LuxLnLyLEmfD2FPpRA). 
 Loosely based off of the series mentioned
 
+<p align="center">
+  <img src="https://github.com/CosmoBytes/Raylib-Tetris/blob/main/Raylib%20Tetris.png" width="200" height="400" alt="Raylib Tetris">
+</p>
+
 ## Build
 
 This project was built in Windows and can be built with the activate.ps1 script.
